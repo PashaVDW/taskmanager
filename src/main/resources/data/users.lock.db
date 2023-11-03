@@ -1,0 +1,6 @@
+#FileLock
+#Fri Nov 03 14:14:53 CET 2023
+hostName=linux-pc
+id=18b95527cc60b5bd09ca23abab39572a9c39f133125
+method=file
+server=127.0.1.1\:40207
